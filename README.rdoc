@@ -1,0 +1,5 @@
+== README
+
+App developed with Ruby on Rails (4.2.2) and Angular (1.4.4). 
+
+Working app: https://fierce-earth-5784.herokuapp.com/#/home
